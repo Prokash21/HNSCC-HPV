@@ -1,0 +1,61 @@
+﻿ID No,HPV Status,Carcinoma Status,Age,Gender,Sexual History,Grade,Marital Status,Educational Level,Occupation,Economical Status,Tissue Source,Betel Chewing addict.,Smokeless Tobacco addict.,Smoke Tobacco addict.,Alcohol addict.,No addict.,addict. Data NA,Cancer in Family or Relative,Genotype_16,Genotype_18,Genotype_31,Genotype_33,Genotype_35,Genotype_6/8 (Low)
+PGV-24-8,Positive,Positive,46,Female,Yes,1,Yes,Literate,Housewife,Low,Tongue,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+PGV-24-11,Positive,Positive,66,Male,Unknown,2,Yes,Illiterate,No,Low,Tongue,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes
+PGV-24-14,Positive,Positive,50,Female,Yes,1,Yes,Literate,Housewife,Low,Buccal Mucosa,No,No,Yes,No,No,No,Unknown,Yes,No,No,Yes,No,Yes
+PGV-24-16,Positive,Positive,58,Male,Unknown,1,Yes,Illiterate,Laborer,Low,Buccal Mucosa,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes
+PGV-24-21,Positive,Positive,60,Female,Unknown,1,Yes,Literate,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Unknown,Yes,No,Yes,No,No,Yes
+PGV-24-23,Positive,Positive,82,Male,Unknown,3,Yes,Illiterate,Unemployed,Low,Tongue,No,No,Yes,No,No,No,Unknown,No,Yes,No,Yes,No,Yes
+PGV-24-47,Positive,Positive,71,Male,Unknown,2,Yes,Literate,Unemployed,Middle,Cheek,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+PGV-24-56,Positive,Positive,60,Female,Yes,2,Yes,Illiterate,Housewife,Low,Tongue,No,No,No,No,Yes,No,Unknown,Yes,No,No,Yes,No,No
+PGV-24-58,Positive,Positive,84,Male,Unknown,1,Yes,Illiterate,Unemployed,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-64,Positive,Positive,52,Male,Yes,1,Yes,Literate,Driver,Low,Buccal Mucosa,Yes,No,Yes,No,No,No,Unknown,Yes,No,No,No,No,No
+PGV-24-66,Positive,Positive,60,Male,Unknown,1,Yes,Illiterate,Unemployed,Low,Tongue,No,No,No,No,Yes,No,Wife,Yes,No,No,No,No,No
+PGV-24-71,Positive,Positive,66,Female,Unknown,1,Yes,Illiterate,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-72,Positive,Positive,60,Male,Unknown,1,Yes,Literate,Unemployed,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Cousin,Yes,No,No,No,No,No
+PGV-24-73,Positive,Positive,35,Female,Yes,1,Yes,SSC,Govt Employee,Middle,Oral Cavity,No,No,No,No,Yes,No,Unknown,Yes,No,Yes,No,No,No
+PGV-24-78,Positive,Positive,75,Male,Unknown,2,Yes,Illiterate,Unemployed,Middle,Tongue,No,No,No,No,Yes,No,Yes (Others),Yes,No,No,No,No,No
+PGV-24-80,Positive,Positive,33,Female,Yes,2,Yes,HSC,Employee,Middle,Tongue,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-82,Positive,Positive,35,Female,Unknown,1,Yes,BSc,Nursing,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-84,Positive,Positive,48,Female,Yes,2,Yes,SSC,Housewife,Rich,Buccal Mucosa,Yes,Yes,No,No,No,No,Yes (Others),Yes,No,No,Yes,No,No
+PGV-24-87,Positive,Positive,65,Male,Unknown,2,Yes,Literate,Business,Rich,Tonsil,No,No,No,No,Yes,No,Unknown,Yes,No,No,No,No,No
+PGV-24-89,Positive,Positive,56,Female,Unknown,2,Yes,Literate,Nursing,Middle,Tongue,No,No,No,No,Yes,No,Yes (Others),Yes,No,No,Yes,No,Yes
+PGV-24-90,Positive,Positive,58,Female,Yes,2,Yes,Literate,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Husband,Yes,No,No,No,Yes,No
+PGV-24-91,Positive,Positive,41,Female,Yes,2,Yes,HSC,Employee,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Yes (Others),Yes,Yes,Yes,No,No,No
+PGV-24-93,Positive,Positive,96,Male,Unknown,1,Yes,Illiterate,Unemployed,Middle,Buccal Mucosa,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No
+PGV-24-94,Positive,Positive,40,Female,Yes,1,Yes,Primary,Housewife,Middle,Buccal Mucosa,Yes,No,No,No,No,No,Unknown,Yes,No,No,No,No,No
+PGV-24-95,Positive,Positive,71,Female,Unknown,2,Yes,Illiterate,Housewife,Low,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-102,Positive,Positive,73,Male,Yes,1,Yes,Illiterate,Others,Low,Buccal Mucosa,No,No,No,No,Yes,No,Wife,Yes,No,No,No,No,No
+PGV-24-103,Positive,Positive,48,Male,Unknown,2,Yes,SSC,Business,Middle,Buccal Mucosa,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No
+PGV-24-105,Positive,Positive,51,Female,Yes,1,Yes,Primary,Housewife,Middle,Tongue,Yes,No,No,No,No,No,Husband,Yes,No,No,No,No,No
+PGV-24-106,Positive,Positive,54,Female,Unknown,1,Yes,HSC,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Yes (Others),Yes,No,No,No,No,No
+PGV-24-113,Positive,Positive,50,Male,Yes,2,Yes,SSC,Employee,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Unknown,No,No,No,Yes,No
+PGV-24-116,Positive,Positive,45,Female,Yes,1,Yes,HSC,Housewife,Middle,Tongue,No,No,No,No,Yes,No,Yes (Others),Yes,Yes,No,No,No,No
+PGV-24-119,Positive,Positive,67,Female,Unknown,2,Yes,Literate,Housewife,Rich,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-121,Positive,Positive,46,Female,Yes,2,Yes,BSc,Housewife,Middle,Tongue,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-122,Positive,Positive,45,Female,Yes,1,Yes,Literate,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-123,Positive,Positive,43,Female,Unknown,1,Yes,Literate,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Yes (Others),Yes,No,No,No,No,No
+PGV-24-126,Positive,Positive,40,Male,Yes,1,Yes,Literate,Employee,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Unknown,Yes,No,No,No,No,No
+PGV-24-133,Positive,Positive,61,Female,Unknown,1,Yes,SSC,Housewife,Rich,Buccal Mucosa,No,No,No,No,Yes,No,Unknown,Yes,No,No,No,No,No
+PGV-24-136,Positive,Positive,62,Female,Unknown,2,Yes,Illiterate,Housewife,Low,Buccal Mucosa,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No
+PGV-24-139,Positive,Positive,71,Male,Yes,1,Yes,HSC,Retierd,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Wife,Yes,No,No,No,No,No
+PGV-24-141,Positive,Positive,47,Female,Unknown,1,Yes,HSC,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Unknown,Yes,No,No,No,No,No
+PGV-24-142,Positive,Positive,43,Male,Yes,1,Yes,SSC,Business,Middle,Buccal Mucosa,No,No,Yes,No,No,No,Wife,Yes,Yes,No,No,No,No
+PGV-24-143,Positive,Positive,51,Female,Unknown,1,Yes,Literate,Housewife,Low,Buccal Mucosa,No,No,No,No,Yes,No,Unknown,Yes,No,No,No,No,No
+PGV-24-153,Positive,Positive,47,Male,Yes,1,Yes,SSC,Employee,Middle,Cheek,No,No,Yes,No,No,No,Unknown,Yes,No,No,Yes,No,No
+PGV-24-156,Positive,Positive,61,Female,Unknown,1,Yes,Illiterate,Housewife,Low,Tongue,No,No,Yes,No,No,No,Yes (Others),Yes,No,No,No,No,No
+PGV-24-157,Positive,Positive,64,Male,Unknown,1,Yes,Literate,Business,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Yes (Others),Yes,No,No,No,No,No
+PGV-24-159,Positive,Positive,40,Male,Yes,2,Yes,Unknown,Unknown,Middle,Tongue,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,No,Yes,No,No,No,No,No
+PGV-24-160,Positive,Positive,57,Male,Unknown,1,Yes,HSC,Business,Middle,Buccal Mucosa,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No
+PGV-24-162,Positive,Positive,44,Female,Yes,1,Yes,BSc,Employee,Middle,Tongue,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-167,Positive,Positive,56,Female,Yes,2,Yes,SSC,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Husband,Yes,No,No,No,No,No
+PGV-24-171,Positive,Positive,56,Male,Unknown,1,Yes,HSC,Business,Middle,Tongue,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No
+PGV-24-174,Positive,Positive,70,Male,Unknown,1,Yes,Illiterate,Unemployed,Low,Tongue,No,Yes,Yes,No,No,No,Unknown,Yes,No,No,No,No,No
+PGV-24-177,Positive,Positive,52,Female,Unknown,1,Yes,Primary,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,Husband,Yes,No,No,No,Yes,No
+PGV-24-180,Positive,Positive,61,Female,Unknown,3,Yes,Literate,Housewife,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-188, Positive,Negative,32,Female,Yes,Unknown,No,MS,Employee,Rich,Buccal Mucosa,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes
+PGV-24-198, Positive,Negative,28,Male,Yes,Unknown,No,BSc,Student,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-209, Positive,Negative,27,Male,Yes,Unknown,Yes,MS,Employee,Rich,Tongue,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+PGV-24-224, Positive,Negative,32,Male,Yes,Unknown,Yes,Primary,Business,Middle,Oral Cavity,No,No,No,No,Yes,No,Friend (Girl),Yes,Yes,No,No,No,No
+PGV-24-248, Positive,Negative,30,Male,Yes,Unknown,No,HSC,Business,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-249, Positive,Negative,27,Female,Yes,Unknown,Yes,BSc,Employee,Middle,Tonsil,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No
+PGV-24-308, Positive,Negative,27,Female,Yes,Unknown,Yes,Law,Student,Middle,Buccal Mucosa,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No
