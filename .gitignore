@@ -1,0 +1,15 @@
+# ==========================
+# Project data & results
+# ==========================
+
+*.csv
+*.tsv
+*.xlsx
+*.txt
+*.rnk
+*.gmt
+*.json
+*.zip
+*.gz
+*.tar
+*.log
