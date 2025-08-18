@@ -1,27 +1,6 @@
-# Genomic Exploration of HPV‑Associated Head & Neck Squamous Cell Carcinoma in Bangladesh
-**An Integrative Histopathological Analysis and Molecular Profiling of HPV**
+# Genomic Exploration of HPV-Associated Head Neck Squamous Cell Carcinoma Occurrence in Bangladesh: An Integrative Histopathological Analysis and Molecular Profiling of HPV
 
-> **Status:** Ongoing research. Primary datasets are withheld until publication.  
-> **Scope:** This repository ships **analysis code**, **reproducible templates**, and **derived figures** only.
-
----
-
-## 🧭 Table of Contents
-- [Overview](#-overview)
-- [Repository Structure](#-repository-structure)
-- [Wet Lab Panels](#-wet-lab-panels)
-- [HNSCC Figures (Clinical, Python)](#-hnscc-figures-clinical-python)
-- [HPV Typing Figures](#-hpv-typing-figures)
-- [Code (Notebooks)](#-code-notebooks)
-- [ML: Clinical Modeling with PyCaret](#-ml-clinical-modeling-with-pycaret)
-- [Quick Start](#-quick-start)
-- [Reproduce Key Plots (Code)](#-reproduce-key-plots-code)
-- [Reproducibility Checklist](#-reproducibility-checklist)
-- [Data Availability](#-data-availability)
-- [Citation](#-citation)
-- [License](#-license)
-- [Acknowledgements](#-acknowledgements)
-- [Changelog](#-changelog)
+> **Status:** Ongoing research. Primary datasets are withheld until publication.
 
 ---
 
@@ -68,7 +47,7 @@ Representative documentation images. Replace/update with finalized panels as the
 ## 🧬 HPV Typing Figures
 **HPV_Type_Distribution.png** — distribution of HPV types among HPV‑positive samples.
 
-<img src="HPV_Figure/HPV_Type_Distribution.png" alt="HPV Type Distribution" width="700"/>
+<img src="HPV_Figure/Addictions_UpSet_Plot_Positive_Samples.png" alt="HPV Type Distribution" width="700"/>
 
 ---
 
@@ -81,29 +60,44 @@ Representative documentation images. Replace/update with finalized panels as the
 ---
 
 ## 🤖 ML: Clinical Modeling with PyCaret
-We benchmark classifiers on the clinical cohort using **PyCaret**:
-- Stratified cross‑validation
-- Hyperparameter tuning
-- Automatic plots: **AUROC** and **Feature Importance**
-
-**Example Outputs**
-- `ML/AUC.png` — AUROC of the finalized model  
-- `ML/Feature Importance.png` — top predictors  
-- `ML/logs.log` — session info & CV results
+We benchmark classifiers on the clinical cohort using **PyCaret** with:
+- Stratified cross-validation  
+- Hyperparameter tuning  
+- Automatic plots for **AUROC** and **Feature Importance**  
 
 ---
 
-🚀 Quick Start
-1) Create & activate a virtual environment
+### 📊 Example Outputs
 
-Linux / macOS
+<div align="center">
 
+**Top Predictors (Feature Importance)**  
+<img src="ML/Feature Importance.png" alt="Feature Importance plot" width="600"/>
+
+---
+
+**AUROC of the Finalized Model**  
+<img src="ML/AUC.png" alt="AUROC curve" width="600"/>
+
+</div>
+
+---
+
+Other outputs:
+- `ML/logs.log` — session information & cross-validation results
+
+---
+
+## 🚀 Quick Start
+
+### 1) Create & activate a virtual environment
+
+**Linux / macOS**
+```bash
 python -m venv .venv
 source .venv/bin/activate
 
-
 Windows (PowerShell)
-
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 
